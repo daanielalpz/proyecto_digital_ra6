@@ -38,7 +38,13 @@ Sistemas de cifrado y protección de datos
 Copias de seguridad y sistemas redundantes
 
 ## 7) RRHH
--
+- Nuevas competencias digitales:
+Uso de sistemas de gestión
+Manejo de herramientas digitales en tienda
+Interpretación básica de datos
+- Cambios organizativos:
+Mayor digitalización del personal
+Equipos especializados en tecnología
 
 ## 8) Integración
 -
