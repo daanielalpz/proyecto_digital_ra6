@@ -25,12 +25,9 @@ Ventas generan demanda → Logística abastece → Atención al cliente gestiona
 
 ## 5) Datos
 - Datos que maneja:
-Ventas diarias, productos, precios, inventario, clientes (online).
+Ventas diarias, productos, precios, inventario y clientes (online).
 - Información obtenida:
-Productos más vendidos
-Horarios de mayor afluencia
-Necesidades de reposición
-Tendencias de consumo
+Productos más vendidos, horarios de mayor afluencia, necesidades de reposición y tendencias de consumo.
 
 ## 6) Seguridad
 -
