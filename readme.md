@@ -42,7 +42,14 @@ Uso de sistemas de gestión, manejo de herramientas digitales en tienda e interp
 Mayor digitalización del personal y equipos especializados en tecnología
 
 ## 8) Integración
--
+- Sistemas conectados:
+ → TPV (cajas) ↔ base de datos central
+ → Tienda online ↔ logística
+ → Inventario ↔ proveedores
+- Procesos automatizados:
+ → Reposición automática de productos
+ → Actualización de precios en tiempo real
+ → Gestión de pedidos online
 
 ## 9) Valor
 -
