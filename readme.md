@@ -24,7 +24,13 @@ Ventas generan demanda → Logística abastece → Atención al cliente gestiona
 - Big Data / IA: predicción de demanda y optimización de stock.
 
 ## 5) Datos
--
+- Datos que maneja:
+Ventas diarias, productos, precios, inventario, clientes (online).
+- Información obtenida:
+Productos más vendidos
+Horarios de mayor afluencia
+Necesidades de reposición
+Tendencias de consumo
 
 ## 6) Seguridad
 -
