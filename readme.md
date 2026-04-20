@@ -11,7 +11,12 @@
 - Automatizar procesos logísticos.
 
 ## 3) Áreas
--
+- Ventas: tienda física y online.
+- Logística: almacenes, distribución de productos.
+- Atención al cliente: soporte, devoluciones.
+
+Relación:
+Ventas generan demanda → Logística abastece → Atención al cliente gestiona incidencias y feedback.
 
 ## 4) Tecnologías
 -
