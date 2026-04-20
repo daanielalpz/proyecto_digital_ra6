@@ -31,20 +31,15 @@ Productos más vendidos, horarios de mayor afluencia, necesidades de reposición
 
 ## 6) Seguridad
 - Riesgos:
-Robo de datos de clientes online
-Fallos en sistemas que afecten a ventas
+Robo de datos de clientes online y fallos en sistemas que afecten a ventas
 - Medidas:
-Sistemas de cifrado y protección de datos
-Copias de seguridad y sistemas redundantes
+Sistemas de cifrado y protección de datos y copias de seguridad y sistemas redundantes
 
 ## 7) RRHH
 - Nuevas competencias digitales:
-Uso de sistemas de gestión
-Manejo de herramientas digitales en tienda
-Interpretación básica de datos
+Uso de sistemas de gestión, manejo de herramientas digitales en tienda e interpretación básica de datos
 - Cambios organizativos:
-Mayor digitalización del personal
-Equipos especializados en tecnología
+Mayor digitalización del personal y equipos especializados en tecnología
 
 ## 8) Integración
 -
