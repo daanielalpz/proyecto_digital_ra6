@@ -19,7 +19,9 @@ Relación:
 Ventas generan demanda → Logística abastece → Atención al cliente gestiona incidencias y feedback.
 
 ## 4) Tecnologías
--
+- Cloud Computing: para centralizar datos de todas las tiendas.
+- Base de datos: control de productos, ventas y clientes.
+- Big Data / IA: predicción de demanda y optimización de stock.
 
 ## 5) Datos
 -
