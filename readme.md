@@ -6,7 +6,9 @@
 - Situación actual: Empresa muy consolidada con tiendas físicas y tienda online en algunas ciudades. Sin embargo, muchos procesos en tienda aún dependen de intervención manual y pueden optimizarse más.
 
 ## 2) Objetivos
--
+- Mejorar la eficiencia en la gestión de stock.
+- Optimizar la experiencia de compra online y en tienda.
+- Automatizar procesos logísticos.
 
 ## 3) Áreas
 -
