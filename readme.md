@@ -30,7 +30,12 @@ Ventas diarias, productos, precios, inventario y clientes (online).
 Productos más vendidos, horarios de mayor afluencia, necesidades de reposición y tendencias de consumo.
 
 ## 6) Seguridad
--
+- Riesgos:
+Robo de datos de clientes online
+Fallos en sistemas que afecten a ventas
+- Medidas:
+Sistemas de cifrado y protección de datos
+Copias de seguridad y sistemas redundantes
 
 ## 7) RRHH
 -
